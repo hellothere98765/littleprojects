@@ -16,7 +16,6 @@ clip = VideoFileClip(path)
 w=2*clip.w*130/clip.h
 h=130
 clip = clip.resize((w,h))
-clip=clip.subclip(0,20)
 n=1/clip.fps
 print(clip.size)
 a=open("a.txt","w").close()

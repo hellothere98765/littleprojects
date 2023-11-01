@@ -1,4 +1,4 @@
-//Needs folder called "Images"
+//Needs folder called "Images" in the same directory.
 import java.util.Scanner;//C:\Users\aweso_suq03xb\Desktop\Codestuff\CodeProjects\Particlesim\ParticleSim.java
 import java.lang.Math;
 import java.util.ArrayList;
